@@ -254,6 +254,7 @@ html, body {
 .rodape__conteudo {
 	display: flex;
 	justify-content: center;
+	gap: 5px;
 }
 
 .rodape__conteudo > a {
