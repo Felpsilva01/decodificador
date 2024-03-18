@@ -256,6 +256,16 @@ html, body {
 	justify-content: center;
 }
 
+.rodape__conteudo > a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.rodape__conteudo > a:hover {
+	text-decoration: underline;
+}
+
 /***Área responsiva***/
 
 @media only screen and (max-width: 1000px) {
